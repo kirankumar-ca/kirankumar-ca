@@ -31,7 +31,7 @@ Areas of Interest
 💻 Finance + Technology  
 🔗 Digital Assets & Blockchain
 
-ortfolio
+Portfolio
 
 Projects will include practical case studies, financial models, research reports, valuation analysis, SQL analysis, dashboards, and investment-focused projects.
 
